@@ -1,2 +1,2 @@
-# Matem-ticas-Discretas-II
+# Matematicas-Discretas-II
 Para las tareas de Matemáticas Discretas II
