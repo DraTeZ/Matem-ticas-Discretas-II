@@ -1,2 +1,3 @@
 # Matematicas-Discretas-II
-Para las tareas de Matemáticas Discretas II
+Tareas de Matemáticas Discretas II by David Alexander Rátiva.
+Universidad Nacional de Colombia
